@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #1a73e8;
+    padding: 10px;
+    height: 50px;
+    padding: 10px 35px;
+    display: flex;
+
+}
+.items{
+    margin: 10px 40px ;
+    text-decoration: none;
+    color: aliceblue;
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.3rem;
+    font-weight: bold;
+    transition: all 0.2s ease-in;
+}
+.link:hover{
+    color:#95b7e3 ;
+}
